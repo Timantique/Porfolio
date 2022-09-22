@@ -1,0 +1,60 @@
+    body {
+   background: rgb(228, 190, 228);
+  }
+
+.porfolio{ 
+    text-align: center;
+    color: rgb(6, 7, 70);
+    font-size: 400%;
+    font-style: italic;
+}
+/* Keskitetty teksti, sekä värin, että koon vaihto*/
+.nimi{
+    text-align: center;
+    color: black;
+    font-size: larger;
+}
+
+.navigointi{
+    display: flex;
+    justify-content: center;
+}
+
+.kertomus{
+    text-align: center;
+    font-size: larger;
+}
+
+.sposti{
+    position: relative; left: 55px;
+}
+
+footer{
+    position: relative; left: 35px;
+}
+
+img{
+
+    max-width: 35%;
+    max-height: 35%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 150%;
+  
+}
+.etusivu{
+    border: 3px rgb(14, 85, 160) solid;
+    margin: 0px 10px;
+}
+
+.uutiset{
+    border: 3px rgb(14, 85, 160) solid;
+    margin: 0px 10px;
+}
+
+.sekalaista{
+    border: 3px rgb(14, 85, 160) solid;
+    margin: 0px 10px;
+}
+
